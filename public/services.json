@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/yWkNwbw/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Classic",
+        "price": "600",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/SXkjhWy/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": "850",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/QXXRtRP/3.jpg"
+    }
+]
