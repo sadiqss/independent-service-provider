@@ -1,10 +1,17 @@
 import React from 'react';
+import Banner from '../Banner/Banner';
+import InclusivePackages from '../InclusivePackages/InclusivePackages';
+
 import Services from '../Services/Services';
 
 
 const Home = () => {
     return (
-        <Services></Services>
+        <>
+            <Banner></Banner>
+            <Services></Services>
+            <InclusivePackages> </InclusivePackages>
+        </>
     );
 };
 
